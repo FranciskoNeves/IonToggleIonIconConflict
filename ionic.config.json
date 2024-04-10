@@ -1,0 +1,7 @@
+{
+  "name": "IonToggleIonIconConflict",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
